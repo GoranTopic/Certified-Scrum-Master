@@ -39,10 +39,15 @@ vs build it fast
 
 Events: 1. Sprint Planning - 8hrs max time/4hrs for 2 weeks 2. Daily scrum/stand up - 15 mins 3. Sprint Review - 4hours i. All about product 4. Sprint Retrospective - 3hrs max i. Lessons learned 5. Sprint - 1 month 
 
+[What is a product](https://www.mountaingoatsoftware.com/blog/what-is-a-product)
+
 [scrum guide](https://scrumguides.org/scrum-guide.html)
 [scrum guide pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
 [Agile Manifesto](https://agilemanifesto.org/)
 
+https://www.leadingagile.com/podcast/trust-influence-loop-mike-cottmeyer/
+
+[practice test ](https://www.scrum.org/open-assessments/scrum-open)
 
 ## Exam
 * 37 questions correct out of / 50 questions
