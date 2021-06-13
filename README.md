@@ -41,6 +41,7 @@ Events: 1. Sprint Planning - 8hrs max time/4hrs for 2 weeks 2. Daily scrum/stand
 
 [scrum guide](https://scrumguides.org/scrum-guide.html)
 [scrum guide pdf](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf)
+[Agile Manifesto](https://agilemanifesto.org/)
 
 
 ## Exam
